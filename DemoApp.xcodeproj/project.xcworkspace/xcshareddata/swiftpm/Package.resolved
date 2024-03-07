@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "nbnetworking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/navneet195/NBNetworking.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "50d523a4ea7d2552201a0f3321ed4f154d980954"
+      }
+    }
+  ],
+  "version" : 2
+}
